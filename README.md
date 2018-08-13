@@ -1,2 +1,2 @@
 # Js
-Js lesson one
+Js lessons
