@@ -1,2 +1,2 @@
 # Js
-Js lessons
+Js simple examples
